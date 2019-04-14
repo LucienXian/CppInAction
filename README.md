@@ -17,3 +17,4 @@
 * [Deleting Functions using ‘delete’ keyword](<http://www.lucienxian.top/2019/04/10/C-11-%E2%80%98delete%E2%80%99-keyword-and-deleted-functions/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/delete.cpp>)];
 * [std::bind](<http://www.lucienxian.top/2019/04/11/std-bind/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/bind.cpp>)];
 * [std::auto specifier](<http://www.lucienxian.top/2019/04/12/auto-specifier/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/auto.cpp>)];
+* [Variadic Templates](<http://www.lucienxian.top/2019/04/14/Variadic-Templates/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/variadic_template.cpp>)];
