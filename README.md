@@ -18,3 +18,7 @@
 * [std::bind](<http://www.lucienxian.top/2019/04/11/std-bind/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/bind.cpp>)];
 * [std::auto specifier](<http://www.lucienxian.top/2019/04/12/auto-specifier/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/auto.cpp>)];
 * [Variadic Templates](<http://www.lucienxian.top/2019/04/14/Variadic-Templates/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/variadic_template.cpp>)];
+
+### C++11 Lambdas
+
+* [C++11 Lambda Function : Example & Tutorial](<http://www.lucienxian.top/2019/04/15/C-11-Lambda-Function/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Lambdas/lambda1.cpp>)];
