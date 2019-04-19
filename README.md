@@ -13,6 +13,7 @@
 ## 允许
 ```shell
 clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
+```
 
 ## C++11
 
