@@ -10,7 +10,7 @@
 > Target: x86_64-apple-darwin18.2.0
 > Thread model: posix
 
-## 允许
+## 运行
 ```shell
 clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 ```
@@ -33,5 +33,5 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 ### C++11 Multithreading
 
 * [C++11 Multithreading : Part 1: Three Ways to Create Threads](<http://www.lucienxian.top/2019/04/18/Multithreading-Three-Ways-to-Create-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part1.cpp>)];
-
-* [Part 2: Joining and Detaching Threads](<http://www.lucienxian.top/2019/04/19/Joining-and-Detaching-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part2.cpp>)];
+* [C++11 Multithreading : Part 2: Joining and Detaching Threads](<http://www.lucienxian.top/2019/04/19/Joining-and-Detaching-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part2.cpp>)];
+* [C++11 Multithreading – Part 3: Carefully Pass Arguments to Threads](<http://www.lucienxian.top/2019/04/20/Passing-Arguments-to-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part3.cpp>)];
