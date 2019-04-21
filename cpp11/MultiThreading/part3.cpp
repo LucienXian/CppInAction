@@ -62,21 +62,22 @@ int main()
     /*
      * pass pointer
      */
-    /*
+    
     startNewThread2();
     std::chrono::milliseconds dura(2000);
     std::this_thread::sleep_for(dura);
     return 0;
-    */
+    
 
     /*
      * pass reference
      */
+    /*
     int x = 9;
     std::cout<<"In Main Thread : Before Thread Start x = "<<x<<std::endl;
     //std::thread threadObj(threadCallbackRef, x);
     std::thread threadObj(threadCallbackRef,std::ref(x));
     threadObj.join();
     std::cout<<"In Main Thread : After Thread Joins x = "<<x<<std::endl;
-    return 0;
+    return 0;*/
 }
