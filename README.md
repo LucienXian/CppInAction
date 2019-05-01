@@ -6,9 +6,9 @@
 
 所有代码都经过以下编译器检验：
 
-> Apple LLVM version 10.0.1 (clang-1001.0.46.3)
-> Target: x86_64-apple-darwin18.2.0
-> Thread model: posix
+> Apple LLVM version 10.0.1 (clang-1001.0.46.3) <br>
+> Target: x86_64-apple-darwin18.2.0 <br>
+> Thread model: posix 
 
 ## 运行
 ```shell
@@ -35,8 +35,9 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 * [C++11 Multithreading : Part 1: Three Ways to Create Threads](<http://www.lucienxian.top/2019/04/18/Multithreading-Three-Ways-to-Create-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part1.cpp>)];
 * [C++11 Multithreading : Part 2: Joining and Detaching Threads](<http://www.lucienxian.top/2019/04/19/Joining-and-Detaching-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part2.cpp>)];
 * [C++11 Multithreading : Part 3: Carefully Pass Arguments to Threads](<http://www.lucienxian.top/2019/04/20/Passing-Arguments-to-Threads/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part3.cpp>)];
-* [C++11 Multithreading : Part 4 : Sharing Data & Race Conditions](<http://www.lucienxian.top/2019/04/21/Sharing-Data-Race-Conditions/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part4.cpp>)];
+* [C++11 Multithreading : Part 4: Sharing Data & Race Conditions](<http://www.lucienxian.top/2019/04/21/Sharing-Data-Race-Conditions/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part4.cpp>)];
 * [C++11 Multithreading : Part 5: Using mutex to fix Race Conditions](<http://www.lucienxian.top/2019/04/22/Using-mutex-to-fix-Race-Conditions/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part5.cpp>)];
 * [C++11 Multithreading : Part 6: Need of Event Handling](<http://www.lucienxian.top/2019/04/23/Need-of-Event-Handling/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part6.cpp>)];
 * [C++11 Multithreading : Part 7: Condition Variables Explained](<http://www.lucienxian.top/2019/04/29/Condition-Variables-Explained/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part7.cpp>)];
 * [C++11 Multithreading : Part 8: std::future, std::promise and Returning values from Thread](<http://www.lucienxian.top/2019/04/30/std-future-std-promise-and-Returning-values-from-Thread/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part8.cpp>)];
+* [C++11 Multithreading : Part 9: std::async Tutorial & Example](<http://www.lucienxian.top/2019/05/01/std-async-Tutorial-Example/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part9.cpp>)];
