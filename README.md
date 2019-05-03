@@ -42,3 +42,7 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 * [C++11 Multithreading : Part 8: std::future, std::promise and Returning values from Thread](<http://www.lucienxian.top/2019/04/30/std-future-std-promise-and-Returning-values-from-Thread/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part8.cpp>)];
 * [C++11 Multithreading : Part 9: std::async Tutorial & Example](<http://www.lucienxian.top/2019/05/01/std-async-Tutorial-Example/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part9.cpp>)];
 * [C++11 Multithreading : Part 10: std::async Tutorial & Example](<http://www.lucienxian.top/2019/05/02/packaged-task-Example-and-Tutorial/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/MultiThreading/part10.cpp>)];
+
+### C++11 Rvalue References
+
+* [C++11 : Rvalue](<http://www.lucienxian.top/2019/05/03/Rvalue-in-C/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/RvalueReferences/rvalue.cpp>)];
