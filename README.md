@@ -46,3 +46,4 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 ### C++11 Rvalue References
 
 * [C++11 : Rvalue](<http://www.lucienxian.top/2019/05/03/Rvalue-in-C/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/RvalueReferences/rvalue.cpp>)];
+* [C++11 : Move Contsructor & rvalue References](<http://www.lucienxian.top/2019/05/04/Move-Contsructor-rvalue-References/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/RvalueReferences/move_con.cpp>)];
