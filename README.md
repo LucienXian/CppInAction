@@ -51,3 +51,7 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 ### C++11 std::initializer_list
 
 * [C++11 : Initializer_list](<http://www.lucienxian.top/2019/05/05/std-initializer-list/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Initialzer_list/initialzer_list.cpp>)];
+
+### C++11 Tuples
+
+* [C++11 : std::tuples](<http://www.lucienxian.top/2019/05/08/C-11-std-tuples/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Tuples/tuples.cpp>)];
