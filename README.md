@@ -63,3 +63,7 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 ### C++11 Callbacks
 
 * [C++11 : Callbacks](<http://www.lucienxian.top/2019/05/21/Designing-Callbacks-in-C/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Callbacks/callbacks.cpp>)];
+
+### C++11 Smart Pointer
+
+* [C++11 : shared_ptr](<http://www.lucienxian.top/2019/05/27/shared-ptr-in-C-11/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Smart_Ptr/shared_ptr.cpp>)];
