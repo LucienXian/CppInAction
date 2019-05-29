@@ -66,4 +66,5 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 
 ### C++11 Smart Pointer
 
-* [C++11 : shared_ptr](<http://www.lucienxian.top/2019/05/27/shared-ptr-in-C-11/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Smart_Ptr/shared_ptr.cpp>)];
+* [C++11 Smart ptr : shared_ptr](<http://www.lucienxian.top/2019/05/27/shared-ptr-in-C-11/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Smart_Ptr/shared_ptr.cpp>)];
+* [C++11 Smart ptr : weak_ptr&unique_ptr](<http://www.lucienxian.top/2019/05/28/weak-ptr-unique-ptr/>), [[weak_ptr](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Smart_Ptr/weak_ptr.cpp>)]-[[unique_ptr](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Smart_Ptr/unique_ptr.cpp>)];
