@@ -22,8 +22,10 @@ clang++ -Wall -g -std=c++11  xxx.cpp -o xxx (-lpthread)
 * [Deleting Functions using ‘delete’ keyword](<http://www.lucienxian.top/2019/04/10/C-11-%E2%80%98delete%E2%80%99-keyword-and-deleted-functions/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/delete.cpp>)];
 * [std::bind](<http://www.lucienxian.top/2019/04/11/std-bind/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/bind.cpp>)];
 * [std::auto specifier](<http://www.lucienxian.top/2019/04/12/auto-specifier/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/auto.cpp>)];
+* [decltype](<http://www.lucienxian.top/2019/12/20/decltype-in-c-11/>), [[Code](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/decltype.cpp>)];
 * [Variadic Templates](<http://www.lucienxian.top/2019/04/14/Variadic-Templates/>), [[Code1](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/variadic_template.cpp>)]
 * [Variadic Tuples](<http://www.lucienxian.top/2019/06/02/Variadic-templates-in-C/>), [[Code2](<https://github.com/LucienXian/CppInAction/blob/master/cpp11/Utilities/variadic_tuple.cpp>)];
+
 
 ### C++11 Lambdas
 
